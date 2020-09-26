@@ -1,0 +1,14 @@
+1.1 Pattern Count Problem
+1 ?? 1 ???? ???????
+1 ?? 1 ????a  ???????
+
+CODE CHALLENGE: Pattern Count Problem.
+     Input: Two strings, Pattern and Genome.
+     Output: Count of appearance of Pattern in Genome.
+
+Sample Input:
+ATAT
+GATATATGCATATACTT
+
+Sample Output:
+3

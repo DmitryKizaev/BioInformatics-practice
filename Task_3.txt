@@ -1,0 +1,13 @@
+1.3 Reverse Complement Problem
+1 ?? 1 ???? ???????
+1 ?? 1 ????a  ???????
+
+CODE CHALLENGE: Reverse Complement Problem.
+     Input: A DNA string Pattern.
+     Output: Pattern, the reverse complement of Pattern.
+
+Sample Input:
+AAAACCCGGT
+
+Sample Output:
+ACCGGGTTTT
