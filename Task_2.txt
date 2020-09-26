@@ -1,0 +1,26 @@
+2.2 Peptide Encoding Problem
+1 ?? 1 ???? ???????
+1 ?? 1 ????a  ???????
+
+We say that a DNA string Pattern encodes an amino acid string Peptide
+if the RNA string transcribed from either Pattern or its reverse complement
+Pattern translates into Peptide. For example, the DNA string GAAACT is transcribed
+into GAAACU and translated into ET. The reverse complement of this DNA string, AGTTTC,
+is transcribed into AGUUUC and translated into SF. Thus, GAAACT encodes both ET and SF.
+
+CODE CHALLENGE: Peptide Encoding Problem.
+
+Peptide Encoding Problem: Find substrings of a genome encoding a given amino acid sequence.
+     Input: A DNA string Text, an amino acid string Peptide, and the array GeneticCode.
+     Output: All substrings of Text encoding Peptide (if any such substrings exist).
+
+Note: The solution may contain repeated strings if the same string occurs more than once as a substring of Text and encodes Peptide.
+
+Sample Input:
+ATGGCCATGGCCCCCAGAACTGAGATCAATAGTACCCGTATTAACGGGTGA
+MA
+
+Sample Output:
+ATGGCC
+ATGGCC
+GGCCAT

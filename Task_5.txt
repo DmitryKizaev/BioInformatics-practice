@@ -1,0 +1,18 @@
+2.5 Counting Peptides with Given Mass Problem
+0 ?? 1 ???? ????????
+0 ?? 1 ????a  ????????
+
+CODE CHALLENGE:  Counting Peptides with Given Mass Problem.
+
+Counting Peptides with Given Mass Problem: Compute the number of peptides of given mass.
+     Input: An integer m.
+     Output: The number of linear peptides having integer mass m.
+
+Recall that we assume that peptides are formed from the following 18 amino acid masses:
+Image: https://ucarecdn.com/5a3d6f05-f6cb-4971-9745-179b6b2ea1ff/
+
+Sample Input:
+1024
+
+Sample Output:
+14712706211

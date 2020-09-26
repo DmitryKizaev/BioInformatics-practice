@@ -1,0 +1,18 @@
+2.1 Protein Translation Problem
+1 ?? 1 ???? ???????
+1 ?? 1 ????a  ???????
+
+CODE CHALLENGE: Protein Translation Problem.
+
+Protein Translation Problem: Translate an RNA string into an amino acid string using RNA Codon Table.
+     Input: An RNA string Pattern.
+     Output: The translation of Pattern into an amino acid string Peptide.
+
+Download RNA Codon Table:
+https://stepik.org/media/attachments/lessons/96/RNA_codon_table_1.txt
+
+Sample Input:
+AUGGCCAUGGCGCCCAGAACUGAGAUCAAUAGUACCCGUAUUAACGGGUGA
+
+Sample Output:
+MAMAPRTEINSTRING
